@@ -1,0 +1,11 @@
+/home/revthedev/Development/Net5/nc5-api/nc5-api/bin/Release/net5.0/publish/nc5-api
+/home/revthedev/Development/Net5/nc5-api/nc5-api/bin/Release/net5.0/publish/appsettings.Development.json
+/home/revthedev/Development/Net5/nc5-api/nc5-api/bin/Release/net5.0/publish/appsettings.json
+/home/revthedev/Development/Net5/nc5-api/nc5-api/bin/Release/net5.0/publish/nc5-api.dll
+/home/revthedev/Development/Net5/nc5-api/nc5-api/bin/Release/net5.0/publish/nc5-api.deps.json
+/home/revthedev/Development/Net5/nc5-api/nc5-api/bin/Release/net5.0/publish/nc5-api.runtimeconfig.json
+/home/revthedev/Development/Net5/nc5-api/nc5-api/bin/Release/net5.0/publish/nc5-api.pdb
+/home/revthedev/Development/Net5/nc5-api/nc5-api/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/home/revthedev/Development/Net5/nc5-api/nc5-api/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/revthedev/Development/Net5/nc5-api/nc5-api/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/revthedev/Development/Net5/nc5-api/nc5-api/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
